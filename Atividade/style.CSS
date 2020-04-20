@@ -1,0 +1,11 @@
+#container img {
+    float: left;
+    width: 155px;
+    height: 170px;
+    margin-right: 10px;
+    margin-left: 2px;
+}
+
+p {
+    margin: 0px 850px 2px 0px;
+}
